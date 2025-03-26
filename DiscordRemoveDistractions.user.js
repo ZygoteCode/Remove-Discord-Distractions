@@ -3,12 +3,12 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.5
 // @description  Remove all the Discord distractions to get concentrated on what's really important
-// @author       GabryB03
+// @author       ZygoteCode
 // @match        https://www.discord.com/*
 // @match        https://discord.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=discord.com
-// @updateURL    https://github.com/GabryB03/Remove-Discord-Distractions/raw/main/DiscordRemoveDistractions.user.js
-// @downloadURL  https://github.com/GabryB03/Remove-Discord-Distractions/raw/main/DiscordRemoveDistractions.user.js
+// @updateURL    https://github.com/ZygoteCode/Remove-Discord-Distractions/raw/main/DiscordRemoveDistractions.user.js
+// @downloadURL  https://github.com/ZygoteCode/Remove-Discord-Distractions/raw/main/DiscordRemoveDistractions.user.js
 // @grant        none
 // ==/UserScript==
 
